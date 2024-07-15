@@ -4,22 +4,20 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/Ceji-B/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/c-logo.jpg" alt="c" width="130" height="100">
   </a>
-<!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+
+  <h3 align="center">Final Project</h3>
 </div>
-<!-- TODO: Make a short description -->
+
 <div align="center">
-  Short Description. (Optional)
+This is our Final Project wherein we were tasked to make a personal website like our past activity. This website will have a resume-like about me, a contact page, gallery, overview of the website and lastly a project showcase. The project showcase would be showing our projects from the start of the Semester up until the last activity.
 </div>
 
 <br />
 
-<!-- TODO: Change the zyx-0314 into your github username  -->
-<!-- TODO: Change the WD-Template-Project into the same name of your folder -->
 ![](https://visit-counter.vercel.app/counter.png?page=Ceji-B/WD-Finals)
 
 ---
@@ -27,7 +25,7 @@
 <br />
 <br />
 
-<!-- TODO: If you want to add more layers for your readme -->
+
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -55,22 +53,24 @@
 
 ## Overview
 
-<!-- TODO: To be changed -->
-<!-- The following are just sample -->
-Description of the project in details.
+For our final project, we were tasked with creating a personal website that showcases our skills, experiences, and projects developed throughout the semester. The website will include the following sections:
 
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+1. About Me: A resume-like section providing a detailed overview of my background, education, and professional experience.
+2. Contact Page: A dedicated page for visitors to reach out to me via a contact form or through provided contact details.
+3. Gallery: A visual collection of images and media that represent my work and interests.
+4. Website Overview: An introduction to the website, explaining its purpose and guiding visitors on what they can expect to find.
+5. Project Showcase: A comprehensive display of all the projects I've worked on from the beginning of the semester to the final activity, demonstrating my growth and learning journey.
+
+The Project Showcase section is particularly significant as it highlights my progress and the various skills I've acquired. Through this personal website, I aim to provide a professional and polished presentation of my work, making it easy for potential employers, collaborators, and visitors to understand my capabilities and achievements. This project not only reflects my technical skills but also my dedication to continuous learning and improvement.
+
 
 ### Key Components
-<!-- TODO: List of Key Components -->
-<!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+
+- MultiPage Website
+- Bootstrap
+- One page multiple function
+- Overview of the Website
+- Project Showcase
 
 ### Technology
 <!-- TODO: List of Technology Used -->

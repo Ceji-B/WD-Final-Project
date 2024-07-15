@@ -111,4 +111,8 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Contact us form-frontend | For the contact function. | (https://codepen.io/JonLehman/pen/yOdbOG) |
+| front codes | Used as inspiration and design | (https://front.codes/) |
+| Resume Concept | Used as the design for the learn more about me. | (https://codepen.io/bphillips201/pen/AxLKby) |
+| Cinematic Animation | Used as the animation and design for the overview. | (https://codepen.io/team/keyframers/pen/LYRmXBX) |
+
